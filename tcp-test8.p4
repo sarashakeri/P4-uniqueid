@@ -1,4 +1,8 @@
 /*
+ * Copyright 2021 Universiteit van Amsterdam and Netherlands eScience Center
+ *
+ * Modified from the original at https://github.com/p4lang/p4c/blob/68b65262ca074b527e973efc888d94e877418bdf/testdata/p4_16_samples/checksum-tcp-bmv2.p4
+ *
  * Copyright 2020 MNK Labs & Consulting, LLC.
  *
  * https://mnkcg.com
